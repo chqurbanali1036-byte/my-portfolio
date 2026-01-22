@@ -23,10 +23,9 @@ Hi! I am **Raheela Qurban**, a passionate Frontend & Software Developer, Data En
 5. **Design Portfolio** – Simple graphics and social media post samples  
 
 ## Contact
-- **GitHub:** [https://github.com/chqurbanali1036-byte/my-portfolio/edit/main/README.md](https://github.com/chqurbanali1036-byte/my-portfolio)  
-- **Email:** ch.qurbanali1036@gmail.com  
-
----
+- **GitHub Pages Portfolio:** [View Portfolio](https://chqurbanali1036-byte.github.io/my-portfolio/)
+- **GitHub:** [chqurbanali1036-byte/my-portfolio](https://github.com/chqurbanali1036-byte/my-portfolio)  
+- **Fiverr:** [raheela_qurban](https://www.fiverr.com/raheela_qurban)  
+- **Email:** Ch.qurbanali1036@gmail.com  
 
 > This portfolio showcases my skills and projects. Feel free to reach out for collaboration or freelance work!
-Author- Raheela Qurban
