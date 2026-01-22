@@ -62,12 +62,12 @@
 
 <header>
     <h1>Raheela Qurban</h1>
-    <p>Frontend & Software Developer | Data Entry | Graphic Designer</p>
+    <p>Frontend & Software Developer | Data Entry Specialist | Graphic Designer</p>
 </header>
 
 <section>
     <h2>About Me</h2>
-    <p>I am a passionate developer and designer with skills in programming, web development, data entry, and graphic design. I enjoy creating projects that challenge me and improve my skills.</p>
+    <p>Hello! I am Raheela Qurban, a passionate developer and designer. I have experience in programming, web development, data entry, and basic graphic design. I enjoy creating projects that improve my skills and solve real problems.</p>
 </section>
 
 <section>
@@ -76,8 +76,8 @@
         <li>Programming: C, C++, Python (basic), DSA</li>
         <li>Web Development: HTML, CSS, JavaScript</li>
         <li>Database: Basic SQL</li>
-        <li>Data Entry: Accurate and efficient with MS Office and Google Sheets</li>
-        <li>Graphic Design: Basic design using tools like Canva / Photoshop</li>
+        <li>Data Entry: Efficient and accurate with MS Office & Google Sheets</li>
+        <li>Graphic Design: Basic design using Canva / Photoshop</li>
         <li>Tools: Git, GitHub</li>
     </ul>
 </section>
@@ -85,24 +85,25 @@
 <section>
     <h2>Projects</h2>
     <ul>
-        <li><strong>Personal Website:</strong> Responsive website built with HTML, CSS, and JS</li>
-        <li><strong>Mini Calculator App:</strong> C++ console application for basic arithmetic</li>
-        <li><strong>ToDo List Web App:</strong> Task management app using HTML, CSS, JS</li>
-        <li><strong>Data Entry Samples:</strong> Mock data projects showing speed and accuracy</li>
-        <li><strong>Design Portfolio:</strong> Simple graphics and social media post samples</li>
+        <li><strong>Personal Website:</strong> A responsive website built using HTML, CSS, and JavaScript to showcase personal projects and skills.</li>
+        <li><strong>Mini Calculator App:</strong> A console application in C++ that performs basic arithmetic operations with user-friendly input.</li>
+        <li><strong>ToDo List Web App:</strong> A simple web app to manage daily tasks, using HTML, CSS, and JavaScript for interactivity.</li>
+        <li><strong>Data Entry Samples:</strong> Example spreadsheets demonstrating speed, accuracy, and organization in handling data.</li>
+        <li><strong>Design Portfolio:</strong> Sample graphics and social media posts created using Canva and basic design tools.</li>
     </ul>
 </section>
 
 <section>
     <h2>Education</h2>
-    <p>Bs computer science (continue)</p>
+    <p>Currently completing my papers, expected by 9 Feb.</p>
 </section>
 
 <section>
     <h2>Contact</h2>
     <ul>
-        <li>GitHub: <a href="#" target="_blank">github.com/yourusername</a></li>
-        <li>Email: <a href="ch.qurbanali1036@gmail.com">ch.qurbanali1036@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/chqurbanali1036-byte/my-portfolio" target="_blank">chqurbanali1036-byte/my-portfolio</a></li>
+        <li>Fiverr: <a href="https://www.fiverr.com/raheela_qurban" target="_blank">raheela_qurban</a></li>
+        <li>Email: <a href="mailto:Ch.qurbanali1036@gmail.com">Ch.qurbanali1036@gmail.com</a></li>
     </ul>
 </section>
 
